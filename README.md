@@ -49,4 +49,9 @@ Step | Description
 - The final cleaned table has no duplicate rows.  
 - Categories like industry and country are now consistent and easy to group or filter.  
 - The date column is properly formatted, allowing for time-based analysis.  
-- The cleaned dataset c
+- The cleaned dataset can now be used to:  
+  - Perform exploratory data analysis  
+  - Create visual dashboards  
+  - Build predictive models on layoff trends  
+
+---
